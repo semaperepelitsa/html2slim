@@ -3,7 +3,7 @@ require File.expand_path("../lib/html2slim/version", __FILE__)
 require "date"
 
 Gem::Specification.new do |s|
-  s.name             = "html2slim"
+  s.name             = "html2slim-ruby3"
   s.version          = HTML2Slim::VERSION
   s.date             = Date.today.to_s
   s.authors          = ["Maiz Lulkin"]
